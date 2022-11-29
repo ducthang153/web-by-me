@@ -16,7 +16,7 @@ export default function(){
                             <a className="nav-link" href="#">HOME</a>
                         </li>
                             <li className="nav-item ">
-                                <a className="nav-link " href="http://localhost:3000/aboutus">ABOUT US</a>
+                                <a className="nav-link " href="/aboutus">ABOUT US</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" href="#">PRODUCT</a>
